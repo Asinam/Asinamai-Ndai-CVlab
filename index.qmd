@@ -1,0 +1,78 @@
+---
+title: Asinamai Medugu Ndai
+subtitle: PhD Student, Department of Pharmaceutical Outcomes and Policy, University of Florida
+
+author:
+  - name: Asinamai Medugu Ndai
+    email: a.ndai@ufl.edu
+    website: https://www.johndoe.com
+    cv: https://github.com/Asinam/CV/blob/main/NDAI_ASINAMAI_CV.pdf
+date: March 31, 2023
+---
+You can find a copy of my CV [here](https://github.com/Asinam/CV/blob/main/NDAI_ASINAMAI_CV.pdf).
+
+# About Me
+
+I am a PhD candidate in the Department of XYZ at the University of XYZ. My research interests include [insert research interests here].
+
+## Education
+
+-   **Doctor of Philosophy (PhD) in Pharmaceutical Sciences with concentration in Pharmaceutical Outcomes and Policy**\
+    University of Florida\
+    Gainesville, FL\
+    Aug 2025
+
+-   **Master of Global Affairs with concentration in Sustainable Development**\
+    University of Notre Dame\
+    Notre Dame, IN\
+    May 2021
+
+-   **Master of Health Planning and Management**\
+    University of Maiduguri\
+    Maiduguri, Nigeria\
+    Jul 2017
+
+-   **Bachelor of Pharmacy**\
+    University of Maiduguri\
+    Maiduguri, Nigeria\
+    Oct 2012
+
+## Research Experience
+
+- Research Assistant, Department of XYZ, University of XYZ (2019 - present)
+- Summer Intern, Company XYZ (Summer 2018)
+- Undergraduate Researcher, Department of DEF, University of DEF (2016 - 2017)
+
+## Publications
+
+- Doe, J. et al. "Title of paper." *Journal name*, vol. X, no. Y, 20XX.
+
+## Presentations
+
+- "Title of presentation," Conference name, Location, Month Year.
+
+## Awards and Honors
+
+- Award/Honor name, Awarding institution, Year
+
+## Projects
+
+### Project 1
+
+![Project 1](/path/to/project1/image)
+
+Description of project 1.
+
+### Project 2
+
+![Project 2](/path/to/project2/image)
+
+Description of project 2.
+
+
+## Contact Me
+
+- [Email](mailto:a.ndai@ufl.edu) [icon:envelope]
+- [LinkedIn](https://www.linkedin.com/in/asinamai-ndai/) [icon:linkedin]
+- [Twitter](https://twitter.com/anmedugu) [icon:twitter]
+---

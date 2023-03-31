@@ -1,0 +1,36 @@
+---
+title: Projects
+subtitle: Check out my projects
+date: March 31, 2023
+---
+
+## Project 1
+
+![Project 1](/path/to/project1/image)
+
+Description of project 1.
+
+## Project 2
+
+![Project 2](/path/to/project2/image)
+
+Description of project 2.
+
+## Project 3
+
+![Project 3](/path/to/project3/image)
+
+Description of project 3.
+
+## Project 4
+
+![Project 4](/path/to/project4/image)
+
+Description of project 4.
+
+## Project 5
+
+![Project 5](/path/to/project5/image)
+
+Description of project 5.
+---
