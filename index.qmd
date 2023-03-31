@@ -1,7 +1,9 @@
 ---
-title: Asinamai Medugu Ndai
-subtitle: PhD Student, Department of Pharmaceutical Outcomes and Policy, University of Florida
-
+format: 
+  html:
+    include-in-header: 
+      - includes/icons.html
+page-layout: full
 author:
   - name: Asinamai Medugu Ndai
     email: a.ndai@ufl.edu
