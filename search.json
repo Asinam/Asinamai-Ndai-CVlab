@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Project 1\n\n\nDescription of project 1."
+  },
+  {
+    "objectID": "about.html#project-2",
+    "href": "about.html#project-2",
+    "title": "Projects",
+    "section": "Project 2",
+    "text": "Project 2\n\n\n\nProject 2\n\n\nDescription of project 2."
+  },
+  {
+    "objectID": "about.html#project-3",
+    "href": "about.html#project-3",
+    "title": "Projects",
+    "section": "Project 3",
+    "text": "Project 3\n\n\n\nProject 3\n\n\nDescription of project 3."
+  },
+  {
+    "objectID": "about.html#project-4",
+    "href": "about.html#project-4",
+    "title": "Projects",
+    "section": "Project 4",
+    "text": "Project 4\n\n\n\nProject 4\n\n\nDescription of project 4."
+  },
+  {
+    "objectID": "about.html#project-5",
+    "href": "about.html#project-5",
+    "title": "Projects",
+    "section": "Project 5",
+    "text": "Project 5\n\n\n\nProject 5"
+  },
+  {
+    "objectID": "about.html#description-of-project-5.",
+    "href": "about.html#description-of-project-5.",
+    "title": "Projects",
+    "section": "Description of project 5.",
+    "text": "Description of project 5."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Asinamai MedLab",
+    "section": "",
+    "text": "You can find a copy of my CV here."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Asinamai MedLab",
+    "section": "Education",
+    "text": "Education\n\nDoctor of Philosophy (PhD) in Pharmaceutical Sciences with concentration in Pharmaceutical Outcomes and Policy\nUniversity of Florida\nGainesville, FL\nAug 2025\nMaster of Global Affairs with concentration in Sustainable Development\nUniversity of Notre Dame\nNotre Dame, IN\nMay 2021\nMaster of Health Planning and Management\nUniversity of Maiduguri\nMaiduguri, Nigeria\nJul 2017\nBachelor of Pharmacy\nUniversity of Maiduguri\nMaiduguri, Nigeria\nOct 2012"
+  },
+  {
+    "objectID": "index.html#research-experience",
+    "href": "index.html#research-experience",
+    "title": "Asinamai MedLab",
+    "section": "Research Experience",
+    "text": "Research Experience\n\nResearch Assistant, Department of XYZ, University of XYZ (2019 - present)\nSummer Intern, Company XYZ (Summer 2018)\nUndergraduate Researcher, Department of DEF, University of DEF (2016 - 2017)"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Asinamai MedLab",
+    "section": "Publications",
+    "text": "Publications\n\nDoe, J. et al. “Title of paper.” Journal name, vol. X, no. Y, 20XX."
+  },
+  {
+    "objectID": "index.html#presentations",
+    "href": "index.html#presentations",
+    "title": "Asinamai MedLab",
+    "section": "Presentations",
+    "text": "Presentations\n\n“Title of presentation,” Conference name, Location, Month Year."
+  },
+  {
+    "objectID": "index.html#awards-and-honors",
+    "href": "index.html#awards-and-honors",
+    "title": "Asinamai MedLab",
+    "section": "Awards and Honors",
+    "text": "Awards and Honors\n\nAward/Honor name, Awarding institution, Year"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Asinamai MedLab",
+    "section": "Projects",
+    "text": "Projects\n\nProject 1\n\n\n\nProject 1\n\n\nDescription of project 1.\n\n\nProject 2\n\n\n\nProject 2\n\n\nDescription of project 2."
+  },
+  {
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
+    "title": "Asinamai MedLab",
+    "section": "Contact Me",
+    "text": "Contact Me\n\nEmail [icon:envelope]\nLinkedIn [icon:linkedin]\nTwitter [icon:twitter]"
+  }
+]
